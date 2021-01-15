@@ -2,110 +2,110 @@
 
 Verbeterde versie van Jabberpoint (door Sydney Minnaar - 4753046)
 
-##Class-diagrams
+## Class-diagrams
 
 Hieronder zijn op een chronologische volgorde de class-diagrams die de applicatie respectievelijk vooraf, na het publiceren van de app, en de verbeterde versie in kaart gebracht.
 
-###Initiële versie
+### Initiële versie
 
-![Initiele class diagram](doc/class diagrams/class-diagram%20(vooraf).svg)
+![Initiele class diagram](doc/class-diagrams/class-diagram-(vooraf).svg)
 
-###Versie na code publicatie
+### Versie na code publicatie
 
-![](doc/class diagrams/class-diagram%20(achteraf).svg)
+![](doc/class-diagrams/class-diagram-(achteraf).svg)
 
-###Verbeterde versie
+### Verbeterde versie
 
-![](doc/class diagrams/class-diagram%20(gerefactored).svg)
+![](doc/class-diagrams/class-diagram-(gerefactored).svg)
 
-##Usecase-diagram
+## Usecase-diagram
 
 Hieronder wordt de usecase-diagram op basis van de applicatie getoond.
 
 ![](doc/usecase-diagram.svg)
 
-##Component-diagram
+## Component-diagram
 
 Hieronder is een component-diagram in kaart gebracht, op basis van de verbeterde class diagram.
 
 ![](doc/component-diagram.svg)
 
-##Activity-diagrams
+## Activity-diagrams
 
 Hieronder worden de activity-diagrams getoond, op basis van de functionaliteiten die de gebruiker kan uitvoeren.
 
-###About Jabberpoint
+### About Jabberpoint
 
-![](doc/activity diagrams/about.svg)
+![](doc/activity-diagrams/about.svg)
 
-###Exit Jabberpoint
+### Exit Jabberpoint
 
-![](doc/activity diagrams/exit.svg)
+![](doc/activity-diagrams/exit.svg)
 
-###Navigate slides
+### Navigate slides
 
-![](doc/activity diagrams/navigate.svg)
+![](doc/activity-diagrams/navigate.svg)
 
-###New presentation
+### New presentation
 
-![](doc/activity diagrams/new.svg)
+![](doc/activity-diagrams/new.svg)
 
-###Open presentation
+### Open presentation
 
-![](doc/activity diagrams/open.svg)
+![](doc/activity-diagrams/open.svg)
 
-###Save presentation
+### Save presentation
 
-![](doc/activity diagrams/save.svg)
+![](doc/activity-diagrams/save.svg)
 
-###Show presentation
+### Show presentation
 
-![](doc/activity diagrams/show.svg)
+![](doc/activity-diagrams/show.svg)
 
-##Sequence-diagrams
+## Sequence-diagrams
 
 Hieronder zijn de sequence-diagrams in kaart gebracht, op basis van de functionaliteiten die de gebruiker kan uitvoeren.
 
-###About Jabberpoint
+### About Jabberpoint
 
-![](doc/sequence diagrams/about.svg)
+![](doc/sequence-diagrams/about.svg)
 
-###Clear presentation (new)
+### Clear presentation (new)
 
-![](doc/sequence diagrams/clear.svg)
+![](doc/sequence-diagrams/clear.svg)
 
-###Exit Jabberpoint
+### Exit Jabberpoint
 
-![](doc/sequence diagrams/exit.svg)
+![](doc/sequence-diagrams/exit.svg)
 
-###Goto slide
+### Goto slide
 
-![](doc/sequence diagrams/goto.svg)
+![](doc/sequence-diagrams/goto.svg)
 
-###Next slide
+### Next slide
 
-![](doc/sequence diagrams/next.svg)
+![](doc/sequence-diagrams/next.svg)
 
-###Previous slide
+### Previous slide
 
-![](doc/sequence diagrams/previous.svg)
+![](doc/sequence-diagrams/previous.svg)
 
-###Open presentation
+### Open presentation
 
-![](doc/sequence diagrams/open.svg)
+![](doc/sequence-diagrams/open.svg)
 
-###Save presentation
+### Save presentation
 
-![](doc/sequence diagrams/save.svg)
+![](doc/sequence-diagrams/save.svg)
 
-##State-machine diagrams
+## State-machine diagrams
 
 Hieronder worden de state-machine diagrams getoond, op basis van de functionaliteiten die de gebruiker kan uitvoeren.
 
-###Presentation state
+### Presentation state
 
-![](doc/state-machine diagrams/presentation-state.svg)
+![](doc/state-machine-diagrams/presentation-state.svg)
 
-###Slide state
+### Slide state
 
-![](doc/state-machine diagrams/slide-state.svg)
+![](doc/state-machine-diagrams/slide-state.svg)
