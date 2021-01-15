@@ -4,7 +4,7 @@ Verbeterde versie van Jabberpoint (door Sydney Minnaar - 4753046)
 
 ## Class-diagrams
 
-Hieronder zijn op een chronologische volgorde de class-diagrams die de applicatie respectievelijk vooraf, na het publiceren van de app, en de verbeterde versie in kaart gebracht.
+Hieronder zijn op een chronologische volgorde de class-diagrams respectievelijk vooraf, na het publiceren van de app, en de verbeterde versie in kaart gebracht.
 
 ### Initiële versie
 
